@@ -22,4 +22,4 @@ This program is made open source because the Internet can be scary, so here's th
 * I haven't tried to use this tool to intentionally break the game too much
 * If you exceed the end date on the last year, the game over sequence starts
 * I just experimented with rewinding the year. I just figured out how to do it. It introduced a bug. I rewinded from Year 5 to Year 2. Once it went from the end of Year 2 to the next day, it stayed Year 2. Yeah, that's not the ideal situation. Maybe from Year 5 to Year 4 won't be as bad
-* I pretty much limited myself for 2-6 weeks of a rewind to be safe. Again, made sure no major events happened during the rewind
+* I pretty much limited myself to 1-6 weeks of a rewind to be safe. Again, made sure no major events happened during the rewind
