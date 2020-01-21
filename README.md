@@ -21,4 +21,4 @@ This program is made open source because the Internet can be scary, so here's th
 * This breaks many facets of the game. For example, the income you get from shops keeps happening on those days of the month
 * I haven't tried to use this tool to intentionally break the game too much
 * If you exceed the end date on the last year, the game over sequence starts
-* I just experimented with rewinding the year. I just figured out how to do it. It introduced a bug. I rewinded from Year 5 to Year 2. Once it went from the end of Year 2 to the next day, it stayed Year 2. Yeah, that's not the ideal situation
+* I just experimented with rewinding the year. I just figured out how to do it. It introduced a bug. I rewinded from Year 5 to Year 2. Once it went from the end of Year 2 to the next day, it stayed Year 2. Yeah, that's not the ideal situation. Maybe from Year 5 to Year 4 won't be as bad
