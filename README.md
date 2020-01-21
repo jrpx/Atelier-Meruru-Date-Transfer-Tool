@@ -19,5 +19,5 @@ This program is made open source because the Internet can be scary, so here's th
 # Findings and notes. SPOILERS AHEAD
 * Many events in the game are based on the days passing, not the absolute date. For example, if you ask a Hom to do something, 7 days passed, you rewind, the game will act like 6-7 have passed. The same goes for tavern quests
 * This breaks many facets of the game. For example, the income you get from shops keeps happening on those days of the month
-* I haven't tried to use this tool to intentionally break the game as of this writing
+* I haven't tried to use this tool to intentionally break the game too much
 * If you exceed the end date on the last year, the game over sequence starts
